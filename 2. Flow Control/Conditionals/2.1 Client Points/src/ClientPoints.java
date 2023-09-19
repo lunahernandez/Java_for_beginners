@@ -2,8 +2,8 @@ public class ClientPoints
 {
    public static void main(String[] args)
    {
-      int points = /* Replace with an appropriate value */;
-      boolean isVIPClient = /* Replace with an appropriate value */;
+      int points = 765/5;
+      boolean isVIPClient = false;
 
       if (points >= 10 || isVIPClient)
          System.out.println("Dear customer, your purchase has accredited you with points.");
