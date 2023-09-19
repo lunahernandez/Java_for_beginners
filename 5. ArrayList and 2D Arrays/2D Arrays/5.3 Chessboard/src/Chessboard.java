@@ -18,7 +18,7 @@ public class Chessboard
          for (int col = 0; col < chessboard.length; col++) {
                System.out.print(chessboard[row][col]);
          }
-         System.out.println("");
+         System.out.println();
       }
    }
 }
